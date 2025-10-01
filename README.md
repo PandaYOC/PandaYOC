@@ -1,2 +1,3 @@
 🏠Croatia, Imotski
-👶Beginner programmer
+Sigma Programmer
+
